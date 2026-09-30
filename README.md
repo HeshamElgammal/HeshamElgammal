@@ -1,181 +1,205 @@
-<h1 align="center">Hi 👋, I'm Hesham Elgammal</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Frontend & Mobile Engineer · React · React Native · Next.js
-</h3>
+# 👋 Hey, I'm Hesham Elgammal
 
-<p align="center">
-  Building scalable web & mobile products with a focus on performance, architecture, and great user experiences.
-</p>
+### `Senior Frontend & Mobile Engineer`
 
-<p align="center">
-  <a href="https://heshamelgammal.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hesham-el-gammal-3b47a0383">LinkedIn</a> ·
-  <a href="mailto:heshamelgammal404@gmail.com">Email</a>
-</p>
+**React · React Native · Next.js · TypeScript**
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://heshamelgammal.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-heshamelgammal.vercel.app-111111?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/hesham-el-gammal-3b47a0383">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:heshamelgammal404@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I'm a **Senior Frontend & Mobile Engineer** with 4+ years of experience building production applications across **web and mobile platforms**.
+<br/><br/>
 
-My main focus is building reliable products with **React, React Native, and Next.js**, while thinking beyond individual screens and features — including architecture, performance, API integration, developer experience, CI/CD, and maintainability.
+<img src="https://komarev.com/ghpvc/?username=HeshamElgammal&style=flat-square&color=blueviolet" />
 
-Currently working at **Medica Scope** on **CarLink**, a Saudi automotive platform that connects users with automotive service centers and integrates with OBD devices.
-
-I'm particularly interested in:
-
-* 🏗️ Frontend architecture & scalable applications
-* ⚛️ React & React Native
-* ▲ Next.js & modern web applications
-* 🚀 Performance optimization
-* 🔄 State & server-state management
-* 🧪 Code quality, testing & maintainability
-* 🔧 CI/CD & development workflows
-* 🤖 AI-assisted software development
-* 🧠 Problem solving & engineering thinking
+</div>
 
 ---
 
-## 💼 Current Work
+<div align="center">
 
-### 🚗 CarLink — Automotive Platform
+> **I don't just build interfaces.**
+>
+> **I build products, solve problems, and make software feel better.**
 
-Working on a Saudi automotive ecosystem connecting customers with automotive service centers.
-
-**My work includes:**
-
-* React Native mobile application
-* Next.js web applications
-* Centers dashboard
-* Admin dashboard
-* API integration and client-side architecture
-* Performance optimization
-* Server-state management with TanStack Query
-* Authentication and session management
-* Booking and service workflows
-* CI/CD and release workflows
-* Production debugging and optimization
-
-The platform integrates with an **OBD device** to provide automotive-related services and enables users to book service centers for maintenance such as oil changes and brake services.
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 `whoami`
 
-### Frontend
+```bash
+$ whoami
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
+Hesham Elgammal
 
-### Mobile
+Senior Frontend & Mobile Engineer
+Cairo, Egypt → Saudi Arabia 🇸🇦
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,swift,androidstudio,apple" />
-</p>
+Focus:
+  ├── Web Engineering
+  ├── Mobile Engineering
+  ├── Frontend Architecture
+  ├── Performance
+  └── AI-assisted Development
+```
 
-### Backend & Data
+I'm a **Senior Frontend & Mobile Engineer** with 4+ years of experience building production applications across **web and mobile**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
-</p>
+Most of my work lives around:
 
-### Tools & DevOps
+**React + React Native + Next.js + TypeScript**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,postman" />
-</p>
+But frameworks are only part of the job.
 
-### State & Data Management
+I'm interested in what happens around the code:
 
-* TanStack Query
-* Redux Toolkit
-* Zustand
-* React Query
-* REST APIs
+`Architecture → APIs → State → Performance → UX → CI/CD → Production`
 
 ---
 
-## 🏗️ Engineering Focus
+# 🚀 What I'm Building
 
-I care about more than making features work.
-
-### Performance
-
-Working on:
-
-* Reducing unnecessary API requests
-* Server-state caching
-* Optimizing screen rendering
-* Preventing unnecessary re-renders
-* Improving navigation performance
-* Optimizing large lists and media
-* Background data updates
-* Improving perceived performance
-
-### Architecture
-
-Interested in building systems that remain maintainable as the product grows:
-
-* Feature-based architecture
-* Reusable components
-* Shared design systems
-* API abstraction
-* Server-state vs client-state separation
-* Monorepos
-* Type-safe development
-
-### Developer Experience
-
-I use modern development tools and AI-assisted workflows to improve:
-
-* Code reviews
-* Refactoring
-* Debugging
-* Documentation
-* Testing
-* Development speed
-* Technical investigation
-
-Tools such as **Cursor and Claude** are part of my development workflow, while keeping human review and verification at the center of the process.
-
----
-
-## 🚀 Selected Projects
+<div align="center">
 
 ### 🚗 CarLink
 
-Automotive platform for the Saudi market.
+**Automotive platform for the Saudi market**
 
-**React Native · Next.js · TypeScript · TanStack Query · Firebase**
+`React Native` · `Next.js` · `TypeScript` · `TanStack Query`
+
+</div>
+
+Currently working at **Medica Scope** on CarLink — a platform that connects customers with automotive services and service centers, with integration around **OBD devices**.
+
+### What I work on
+
+```text
+📱 Mobile Application
+        ↓
+🌐 Web Applications
+        ↓
+🏢 Centers Dashboard
+        ↓
+⚙️ Admin Dashboard
+        ↓
+🔌 APIs & Services
+        ↓
+🚀 Production
+```
+
+From booking and service workflows to authentication, API integration, performance, caching and release workflows.
 
 ---
+
+# 🧭 My Engineering Journey
+
+```text
+                         2023
+                          │
+                          ▼
+                ┌───────────────────┐
+                │  Mobile / React   │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │    DrugGo         │
+                │    Hike-Time      │
+                │    Education Apps │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │    Waseet.net     │
+                │  React / RN / Web │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │    Digital Car    │
+                │ Automotive / KSA  │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │    Medica Scope   │
+                │     CarLink       │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                        TODAY
+```
+
+---
+
+# 🏢 Products I've Worked On
+
+<table>
+<tr>
+<td width="50%">
+
+### 📰 Waseet.net
+
+Classifieds platform with **web + mobile experiences**.
+
+**React · React Native · Next.js · TypeScript**
+
+Worked on mobile, web, automotive experiences, performance, push notifications, OTA updates and production releases.
+
+</td>
+
+<td width="50%">
 
 ### 🚘 Digital Car
 
-Automotive marketplace and services platform.
+Automotive platform focused on the Saudi market.
 
-**React Native · Next.js · TypeScript · Redux Toolkit · Firebase**
+**React Native · Next.js · TypeScript**
 
----
+Worked across customer, retailer and web/mobile experiences with a focus on performance and scalable frontend architecture.
 
-### 🛒 TeeslaTech
+</td>
+</tr>
 
-E-commerce platform with a customer storefront and administration dashboard.
+<tr>
+<td>
 
-**Next.js · TypeScript · Tailwind CSS · Node.js · Express · MongoDB**
+### 🚗 CarLink
 
----
+Automotive service platform connecting customers and service centers.
 
-### 💊 DrugGo
+**React Native · Next.js · TanStack Query**
 
-Mobile application focused on pharmacy and medicine-related services.
+Mobile app + centers dashboard + admin platform.
 
-**React Native · TypeScript**
+</td>
 
----
+<td>
+
+### 🛍️ TeeslaTech
+
+E-commerce platform with storefront and administration dashboard.
+
+**Next.js · Node.js · Express · MongoDB**
+
+Full-stack product experience.
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 💼 Maysan Jobs
 
@@ -183,80 +207,143 @@ Job marketplace mobile application.
 
 **React Native · React Query · Zustand · Sentry**
 
----
+</td>
 
-## 📚 Currently Learning
+<td>
 
-I'm continuously expanding my engineering skills beyond a single framework.
+### 💊 DrugGo
 
-* Swift & iOS development
-* Advanced React Native
-* React internals
-* Next.js architecture
-* TypeScript
-* System & frontend architecture
-* Performance engineering
-* Testing
-* CI/CD
-* AI-assisted development
+Mobile application with UI improvements and refactoring.
+
+**React Native**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+# ⚡ My Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeshamElgammal&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshamElgammal&layout=compact&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HeshamElgammal&hide_border=true" />
-</p>
+### Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 
-## 🌐 Portfolio
+### Mobile
 
-<p align="center">
-  <a href="https://heshamelgammal.vercel.app">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=react,swift,androidstudio,apple" />
 
----
+### Backend
 
-## 📄 Resume
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
 
-<p align="center">
-  <a href="https://github.com/HeshamElgammal/HeshamElgammal/raw/main/Hesham-Elgammal-CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-</p>
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,vscode" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🧠 More Than Code
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hesham-el-gammal-3b47a0383">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="mailto:heshamelgammal404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+|   🏗️ Architecture  |      ⚡ Performance     |  🧩 Problem Solving |
+| :-----------------: | :--------------------: | :-----------------: |
+|   Scalable systems  |   Faster experiences   | Root-cause thinking |
+| Reusable components |      Smart caching     |      Debugging      |
+|  State architecture | Rendering optimization |      Trade-offs     |
 
-  <a href="https://wa.me/201092901319">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+| 🤖 AI-assisted Dev |      🔄 CI/CD      |      🎨 UX     |
+| :----------------: | :----------------: | :------------: |
+|       Cursor       |   GitHub Actions   | Design systems |
+|       Claude       |      Firebase      |  Responsive UI |
+|     Code review    | Automated releases | UX consistency |
 
-  <a href="https://github.com/HeshamElgammal">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Building products, solving problems, and continuously learning.</i>
-</p>
+# ⚡ Performance Mindset
+
+One of the areas I've become increasingly interested in is **frontend performance**.
+
+Not just:
+
+```text
+"How fast is the API?"
+```
+
+but:
+
+```text
+How many requests are we making?
+        ↓
+What should actually be cached?
+        ↓
+What belongs in server state?
+        ↓
+What causes unnecessary renders?
+        ↓
+What happens when the user navigates back?
+        ↓
+What does the user actually feel?
+```
+
+That's why I've been working with tools such as **TanStack Query** to improve caching, synchronization and server-state management in production applications.
+
+---
+
+# 🤖 Coding in the AI Era
+
+AI changed the way I develop software.
+
+Today, I use AI tools as part of my engineering workflow:
+
+```text
+        Problem
+           ↓
+     Understand it
+           ↓
+      Ask AI / Explore
+           ↓
+      Generate ideas
+           ↓
+      Review the code
+           ↓
+        Verify
+           ↓
+       Improve
+           ↓
+       Production
+```
+
+### My rule:
+
+> **AI can generate code.
+> Engineers are still responsible for understanding it.**
+
+I use **Cursor, Claude and AI-assisted workflows** for exploration, refactoring, debugging, documentation, testing and repetitive work.
+
+The valuable part isn't typing faster.
+
+It's being able to **verify, reason and make the right engineering decision**.
+
+---
+
+# 🧪 How I Think About Features
+
+```ts
+function buildFeature(problem: Problem) {
+
+  const context = understand(problem);
+
+  const architecture = design(context);
+
+  const implementation = build(architecture);
+
+  cons
+```
