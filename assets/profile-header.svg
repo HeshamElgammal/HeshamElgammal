@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hesham Elgammal — Senior Frontend &amp; Mobile Engineer</title>
+  <desc id="desc">A premium midnight-blue engineering banner with cyan and violet accents, subtle grid, and connected orbital rings.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset=".55" stop-color="#101E35"/>
+      <stop offset="1" stop-color="#11162D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3BE8D7"/>
+      <stop offset=".54" stop-color="#56B7FF"/>
+      <stop offset="1" stop-color="#A88AFF"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4D98F9" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#4D98F9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#7F9DBC" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <clipPath id="clip"><rect width="1280" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="360" fill="url(#background)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <circle cx="1035" cy="179" r="250" fill="url(#halo)"/>
+    <path d="M24 24H1256V336H24Z" fill="none" stroke="#A0C6E3" stroke-opacity=".13" stroke-width="1"/>
+    <path d="M64 66H176" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="194" cy="66" r="4" fill="#62E5DC"/>
+    <text x="64" y="106" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#56E3DB">HELLO, I'M</text>
+    <text x="61" y="174" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="#F8FBFF">Hesham Elgammal</text>
+    <text x="64" y="220" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#C8DBEB">Senior Frontend &amp; Mobile Engineer</text>
+    <text x="64" y="273" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#99BAD3">React Native  /  React  /  Next.js  /  TypeScript</text>
+    <rect x="64" y="299" width="238" height="3" rx="2" fill="url(#accent)"/>
+    <text x="64" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#7896AC">BUILD · REFINE · SHIP</text>
+
+    <g transform="translate(1028 175)" fill="none">
+      <circle r="133" stroke="#7EB2E4" stroke-opacity=".18" stroke-width="1.5"/>
+      <circle r="106" stroke="#65E2DA" stroke-opacity=".46" stroke-width="1.7" stroke-dasharray="4 12"/>
+      <circle r="76" stroke="#A795F7" stroke-opacity=".45" stroke-width="2"/>
+      <circle r="49" fill="#101E35" stroke="url(#accent)" stroke-width="2.5"/>
+      <path d="M-25 -11L-38 0l13 11M25 -11L38 0 25 11M10 -19L-10 19" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <circle cx="-92" cy="-52" r="7" fill="#46E5DB"/>
+      <circle cx="107" cy="-2" r="8" fill="#A58BFF"/>
+      <circle cx="25" cy="131" r="6" fill="#60BFFF"/>
+      <circle cx="-92" cy="-52" r="15" fill="#46E5DB" opacity=".25" filter="url(#glow)"/>
+      <circle cx="107" cy="-2" r="16" fill="#A58BFF" opacity=".25" filter="url(#glow)"/>
+      <path d="M-162 0H-145M145 0H162M0 -162V-145M0 145V162" stroke="#79A7D2" stroke-opacity=".6" stroke-width="1.5"/>
+    </g>
+    <g fill="#6FD5EA" opacity=".42"><circle cx="790" cy="72" r="2"/><circle cx="837" cy="290" r="2"/><circle cx="1212" cy="74" r="2"/></g>
+  </g>
+</svg>
