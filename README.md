@@ -1,349 +1,61 @@
-<div align="center">
+<div align="center"><img src="./assets/profile-header.svg" alt="Hesham Elgammal — Senior Frontend & Mobile Engineer" width="100%" />
+Building scalable products, thoughtful interfaces, and reliable mobile experiences.
 
-# 👋 Hey, I'm Hesham Elgammal
 
-### `Senior Frontend & Mobile Engineer`
 
-**React · React Native · Next.js · TypeScript**
+</div>About me
+I'm a Senior Frontend & Mobile Engineer based in Egypt, with 6 years of experience building web and mobile products. My core stack is React Native, React, Next.js, and TypeScript.
 
-<br/>
+I currently work at Medica Scope on CarLink, an automotive services platform for the Saudi market. Previously, I've worked with Waseet.net, Digital Car, and O-Projects.
 
-<a href="https://heshamelgammal.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-heshamelgammal.vercel.app-111111?style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/hesham-el-gammal-3b47a0383">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:heshamelgammal404@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+I enjoy solving problems beyond the UI: understanding business flows, respecting API contracts, designing reusable systems, improving performance, and making releases more dependable.
+What I bring to a team
+Focus	How I approach it
+Mobile & Web	Build maintainable experiences across React Native, React, and Next.js.
+Architecture & Design Systems	Reusable components, clear boundaries, consistent tokens, and feature-oriented structure.
+Performance & Data	Thoughtful caching, fewer unnecessary requests, and careful render optimization.
+Delivery & Quality	API integration, authentication, code review, debugging, and CI/CD workflows.
+AI-assisted Engineering	Use AI to move faster, then validate behavior, architecture, and maintainability.
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HeshamElgammal&style=flat-square&color=blueviolet" />
+Technology
+<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,git,github,firebase&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Git, GitHub, Firebase" /></div>Core: React Native · React · Next.js · TypeScript · JavaScript
+State & APIs: TanStack Query · Axios · Redux Toolkit · Zustand · REST APIs
+Mobile & Delivery: React Navigation · Firebase · Fastlane · GitLab CI/CD · GitHub Actions
+Practices: Design Systems · Figma · Performance · Code Review · Reusable Components
+Additional: Node.js · Express · MongoDB
+Selected product experience
+Product	Contribution
+CarLink — Medica Scope	Web and mobile automotive-service journeys, booking flows, dashboards, authentication, and API integration.
+Waseet.net	Classifieds and automotive experiences across mobile and web.
+Digital Car	Customer and retailer experiences for a Saudi automotive platform.
+Maysan Jobs	React Native job-marketplace application using TanStack Query, Zustand, and Sentry.
+TeeslaTech	E-commerce storefront and admin platform using Next.js, Node.js, Express, and MongoDB.
 
-</div>
 
----
+Most of my commercial product work is in private company repositories. Below are projects I can share publicly.
 
-<div align="center">
-
-> **I don't just build interfaces.**
->
-> **I build products, solve problems, and make software feel better.**
-
-</div>
-
----
-
-## 🧑‍💻 `whoami`
-
-```bash
-$ whoami
-
-Hesham Elgammal
-
-Senior Frontend & Mobile Engineer
-Cairo, Egypt → Saudi Arabia 🇸🇦
-
-Focus:
-  ├── Web Engineering
-  ├── Mobile Engineering
-  ├── Frontend Architecture
-  ├── Performance
-  └── AI-assisted Development
-```
-
-I'm a **Senior Frontend & Mobile Engineer** with 4+ years of experience building production applications across **web and mobile**.
-
-Most of my work lives around:
-
-**React + React Native + Next.js + TypeScript**
-
-But frameworks are only part of the job.
-
-I'm interested in what happens around the code:
-
-`Architecture → APIs → State → Performance → UX → CI/CD → Production`
-
----
-
-# 🚀 What I'm Building
-
-<div align="center">
-
-### 🚗 CarLink
-
-**Automotive platform for the Saudi market**
-
-`React Native` · `Next.js` · `TypeScript` · `TanStack Query`
-
-</div>
-
-Currently working at **Medica Scope** on CarLink — a platform that connects customers with automotive services and service centers, with integration around **OBD devices**.
-
-### What I work on
-
-```text
-📱 Mobile Application
-        ↓
-🌐 Web Applications
-        ↓
-🏢 Centers Dashboard
-        ↓
-⚙️ Admin Dashboard
-        ↓
-🔌 APIs & Services
-        ↓
-🚀 Production
-```
-
-From booking and service workflows to authentication, API integration, performance, caching and release workflows.
-
----
-
-# 🧭 My Engineering Journey
-
-```text
-                         2023
-                          │
-                          ▼
-                ┌───────────────────┐
-                │  Mobile / React   │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │    DrugGo         │
-                │    Hike-Time      │
-                │    Education Apps │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │    Waseet.net     │
-                │  React / RN / Web │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │    Digital Car    │
-                │ Automotive / KSA  │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │    Medica Scope   │
-                │     CarLink       │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                        TODAY
-```
-
----
-
-# 🏢 Products I've Worked On
-
+Public projects
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">React Native Starter
+TypeScript starter with navigation, auth flows, reusable UI components, theme support, and secure storage.
 
-### 📰 Waseet.net
-
-Classifieds platform with **web + mobile experiences**.
-
-**React · React Native · Next.js · TypeScript**
-
-Worked on mobile, web, automotive experiences, performance, push notifications, OTA updates and production releases.
-
+React Native · TypeScript · Keychain
 </td>
+<td width="50%" valign="top">Personal Portfolio
+Responsive portfolio with a modern web stack.
 
-<td width="50%">
+Next.js · TypeScript · Tailwind CSS
 
-### 🚘 Digital Car
-
-Automotive platform focused on the Saudi market.
-
-**React Native · Next.js · TypeScript**
-
-Worked across customer, retailer and web/mobile experiences with a focus on performance and scalable frontend architecture.
-
+View live website
 </td>
 </tr>
+</table>How I work
+Understand the product → Respect the API contract → Design the architecture → Build → Review → Measure → Improve
 
-<tr>
-<td>
+I believe great frontend engineering means more than shipping screens. It means creating reliable user journeys, reducing complexity, and taking responsibility for what reaches production.
+<div align="center">Let's build something useful.
 
-### 🚗 CarLink
-
-Automotive service platform connecting customers and service centers.
-
-**React Native · Next.js · TanStack Query**
-
-Mobile app + centers dashboard + admin platform.
-
-</td>
-
-<td>
-
-### 🛍️ TeeslaTech
-
-E-commerce platform with storefront and administration dashboard.
-
-**Next.js · Node.js · Express · MongoDB**
-
-Full-stack product experience.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💼 Maysan Jobs
-
-Job marketplace mobile application.
-
-**React Native · React Query · Zustand · Sentry**
-
-</td>
-
-<td>
-
-### 💊 DrugGo
-
-Mobile application with UI improvements and refactoring.
-
-**React Native**
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ My Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react,swift,androidstudio,apple" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,vscode" />
-
+Portfolio · LinkedIn · Email
 </div>
-
----
-
-# 🧠 More Than Code
-
-<div align="center">
-
-|   🏗️ Architecture  |      ⚡ Performance     |  🧩 Problem Solving |
-| :-----------------: | :--------------------: | :-----------------: |
-|   Scalable systems  |   Faster experiences   | Root-cause thinking |
-| Reusable components |      Smart caching     |      Debugging      |
-|  State architecture | Rendering optimization |      Trade-offs     |
-
-| 🤖 AI-assisted Dev |      🔄 CI/CD      |      🎨 UX     |
-| :----------------: | :----------------: | :------------: |
-|       Cursor       |   GitHub Actions   | Design systems |
-|       Claude       |      Firebase      |  Responsive UI |
-|     Code review    | Automated releases | UX consistency |
-
-</div>
-
----
-
-# ⚡ Performance Mindset
-
-One of the areas I've become increasingly interested in is **frontend performance**.
-
-Not just:
-
-```text
-"How fast is the API?"
-```
-
-but:
-
-```text
-How many requests are we making?
-        ↓
-What should actually be cached?
-        ↓
-What belongs in server state?
-        ↓
-What causes unnecessary renders?
-        ↓
-What happens when the user navigates back?
-        ↓
-What does the user actually feel?
-```
-
-That's why I've been working with tools such as **TanStack Query** to improve caching, synchronization and server-state management in production applications.
-
----
-
-# 🤖 Coding in the AI Era
-
-AI changed the way I develop software.
-
-Today, I use AI tools as part of my engineering workflow:
-
-```text
-        Problem
-           ↓
-     Understand it
-           ↓
-      Ask AI / Explore
-           ↓
-      Generate ideas
-           ↓
-      Review the code
-           ↓
-        Verify
-           ↓
-       Improve
-           ↓
-       Production
-```
-
-### My rule:
-
-> **AI can generate code.
-> Engineers are still responsible for understanding it.**
-
-I use **Cursor, Claude and AI-assisted workflows** for exploration, refactoring, debugging, documentation, testing and repetitive work.
-
-The valuable part isn't typing faster.
-
-It's being able to **verify, reason and make the right engineering decision**.
-
----
-
-# 🧪 How I Think About Features
-
-```ts
-function buildFeature(problem: Problem) {
-
-  const context = understand(problem);
-
-  const architecture = design(context);
-
-  const implementation = build(architecture);
-
-  cons
-```
